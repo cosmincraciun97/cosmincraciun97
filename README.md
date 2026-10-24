@@ -4,7 +4,7 @@
       <source media="(max-width: 640px) and (prefers-color-scheme:dark)" srcset="./assets/header-mobile-dark.svg">
       <source media="(max-width: 640px)" srcset="./assets/header-mobile-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-      <img alt="Cosmin Craciun, software developer working remotely from Romania. Building Side Whisper and Stonewright." src="./assets/header-light.svg" width="100%">
+      <img alt="Cosmin Craciun. Building Side Whisper and Stonewright." src="./assets/header-light.svg" width="100%">
     </picture>
   </a>
 </p>
